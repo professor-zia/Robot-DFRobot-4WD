@@ -1,4 +1,6 @@
-https://www.dfrobot.com/product-97.html
+wiki: https://wiki.dfrobot.com/rob0003/
+
+sale: https://www.dfrobot.com/product-97.html
 
 Review and assembly videos:
 
